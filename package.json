@@ -1,5 +1,5 @@
 {
-  "name": "@upship.ai/sdk",
+  "name": "@upship_ai/sdk",
   "version": "0.1.0",
   "description": "SDK for upship.ai",
   "main": "dist/cjs/index.js",
