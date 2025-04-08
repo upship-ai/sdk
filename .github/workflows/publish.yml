@@ -15,7 +15,8 @@ jobs:
           node-version: '14'
           registry-url: 'https://npm.pkg.github.com'
           scope: '@upship.ai'
-      - run: npm ci
+      - run: npm i
+      # - run: npm ci
       - run: npm test
       - run: npm run build
       - run: npm publish
