@@ -1,13 +1,13 @@
-# @upship.ai/sdk
+# @upship/sdk
 
 A TypeScript SDK for upship.ai with React components for authentication.
 
 ## Installation
 
 ```bash
-npm install @upship.ai/sdk
+npm install @upship/sdk
 # or
-yarn add @upship.ai/sdk
+yarn add @upship/sdk
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ import {
   SignedOut, 
   SignInButton, 
   SignOutButton 
-} from '@upship.ai/sdk';
+} from '@upship/sdk';
 
 function App() {
   return (
