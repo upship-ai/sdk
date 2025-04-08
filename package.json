@@ -1,7 +1,7 @@
 {
   "name": "@upship/sdk",
   "scope": "upship",
-  "version": "0.1.0-pre-alpha",
+  "version": "0.1.1-pre-alpha",
   "description": "SDK for upship.ai",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
