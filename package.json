@@ -15,7 +15,6 @@
     "lint": "eslint 'src/**/*.{ts,tsx}'",
     "lint:fix": "eslint 'src/**/*.{ts,tsx}' --fix",
     "format": "prettier --write 'src/**/*.{ts,tsx}'",
-    "prepare": "npm run build",
     "prepublishOnly": "npm test && npm run lint"
   },
   "repository": {
